@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=rounded&text=Jiyun%20Park&fontSize=30&&fontColor=ffffff&height=300&desc=Frontend%20Developer&descSize=30&theme=radical)<br/>
+![header](https://capsule-render.vercel.app/api?type=rounded&text=Jiyun%20Park&fontSize=30&&fontColor=ffffff&height=300&desc=Frontend%20Developer&descSize=30&theme=tokyonight)<br/>
 <p align="center"><img src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=HTML&logoColor=white" align="center"/>
 <img src ="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=CSS&logoColor=white" align="center"/>
 <img src ="https://img.shields.io/badge/javascript-0769AD.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white" align="center"/>
@@ -8,5 +8,7 @@
 <img src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=REACT&logoColor=white" align="center"/>
 <img src ="https://img.shields.io/badge/reactQuery-FF4154.svg?&style=for-the-badge&logo=REACT%20Query&logoColor=white" align="center"/>
 <img src ="https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=VUE&logoColor=white" align="center"/>
-<img src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=TYPESCRIPT&logoColor=white" align="center"/></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=buefy&show_icons=true)
+<img src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=TYPESCRIPT&logoColor=white" align="center"/></p><br/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=prussian)
