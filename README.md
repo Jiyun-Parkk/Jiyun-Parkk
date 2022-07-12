@@ -11,4 +11,4 @@
 <img src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=TYPESCRIPT&logoColor=white" align="center"/></p><br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=prussian)
+![jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyun-par&show_icons=true&theme=prussian)
