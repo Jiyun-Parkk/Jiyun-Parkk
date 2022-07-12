@@ -1,6 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Jiyun%20Park&fontSize=30&&fontColor=ffffff&height=300&desc=Frontend%20Developer&descSize=30&theme=tokyonight)<br/>
-![jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyun-par&show_icons=true&theme=monokai)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Jiyun%20Park&fontSize=30&&fontColor=ffffff&height=300&desc=Frontend%20Developer&descSize=30&theme=radical)<br/>
+![jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyun-par&show_icons=true&theme=monokai&hide_title=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun-par&layout=compact)](https://github.com/jiyun-par/github-readme-stats)
 
 <p align="left"><img src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=HTML&logoColor=white" align="center"/>
