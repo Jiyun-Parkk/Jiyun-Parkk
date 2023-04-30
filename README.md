@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyun-Parkk&layout=compact)](https://github.com/jiyun-par/github-readme-stats)
 
-<p align="center">
+<p align="left">
  <img src="https://img.shields.io/badge/html5-E34F26" >
  <img src="https://img.shields.io/badge/css-1572B6" >
  <img src="https://img.shields.io/badge/javascript-F7DF1E" >
