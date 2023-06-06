@@ -1,7 +1,7 @@
 
 ## Hi, I'm Jiyun Park<img src="https://raw.githubusercontent.com/isabellaji/isabellaji/main/wave.gif" width="30">
 
-![jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyun-Parkk&show_icons=true&theme=monokai&hide_title=true)
+![jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyun-Parkk&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyun-Parkk&layout=compact)](https://github.com/jiyun-par/github-readme-stats)
 
