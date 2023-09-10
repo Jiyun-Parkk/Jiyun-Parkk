@@ -1,19 +1,48 @@
 
 ## Hi, I'm Jiyun Park<img src="https://raw.githubusercontent.com/isabellaji/isabellaji/main/wave.gif" width="30">
 
-![jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyun-Parkk&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyun-Parkk&layout=compact)](https://github.com/jiyun-par/github-readme-stats)
 
-<p align="left">
- <img src="https://img.shields.io/badge/HTML5-E34F26" >
- <img src="https://img.shields.io/badge/CSS-1572B6" >
- <img src="https://img.shields.io/badge/Javascript-F7DF1E" >
- <img src="https://img.shields.io/badge/Typescript-3178C6" >
- <img src="https://img.shields.io/badge/Jquery-0769AD" >
- <img src="https://img.shields.io/badge/React-61DAFB" >
- <img src="https://img.shields.io/badge/Next.JS-000000" >
- <img src="https://img.shields.io/badge/Vue-4FC08D" >
+![jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyun-Parkk&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)
 
- </p>
 
+
+<h2>Frontend Language</h2>
+<p>
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<h2>Frontend Library & Framework</h2>
+<p>
+ <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+ <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+ <img src="https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=next.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
+ 
+</p>
+
+<h2>Backend Language</h2>
+<p>
+ <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<h2>Backend Library & Framework</h2>
+<p>
+ <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+ <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
+</p>
+
+<h2>Infra</h2>
+<p>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+ <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+ <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+ 
