@@ -1,5 +1,7 @@
 
 ## Hi, I'm Jiyun Park<img src="https://raw.githubusercontent.com/isabellaji/isabellaji/main/wave.gif" width="30">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiyun-Parkk%2Fhit-counter&count_bg=%234F0733&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyun-Parkk&layout=compact)](https://github.com/jiyun-par/github-readme-stats)
 
@@ -37,6 +39,8 @@
  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
 </p>
+
+
 
 <h2>Infra</h2>
 <p>
