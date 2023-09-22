@@ -1,11 +1,19 @@
 
 ## Hi, I'm Jiyun Park<img src="https://raw.githubusercontent.com/isabellaji/isabellaji/main/wave.gif" width="30">
+<div align="center">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiyun-Parkk%2Fhit-counter&count_bg=%234F0733&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jiyun-Parkk&theme=flat&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyun-Parkk&layout=compact)](https://github.com/jiyun-par/github-readme-stats)
 
 ![jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyun-Parkk&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)
+
+ 
+</div>
 
 
 
