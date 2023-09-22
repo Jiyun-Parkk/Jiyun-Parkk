@@ -40,6 +40,10 @@
  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
 </p>
 
+<h2>Test</h2>
+<p>
+ <img src="https://img.shields.io/badge/cypress-%17202C.svg?style=for-the-badge&logo=cypress&logoColor=white" />
+</p>
 
 
 <h2>Infra</h2>
